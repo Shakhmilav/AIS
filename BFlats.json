@@ -9,7 +9,7 @@
 				"Price":23000000,
 				"Availability":"Available",
 				"Square":34,
-				"BedroomsCount":2,
+				"BedroomsCount":6,
 				"Plan":"https://raw.githubusercontent.com/Shakhmilav/AIS/refs/heads/main/bitmaps/b1-e1-f1-n1.png",
 				"Type":"Apartment",
 				"Code":540634
@@ -24,7 +24,7 @@
 				"Price":30000000,
 				"Availability":"Sold",
 				"Square":42.7,
-				"BedroomsCount":1,
+				"BedroomsCount":5,
 				"Plan":"https://raw.githubusercontent.com/Shakhmilav/AIS/refs/heads/main/bitmaps/b1-e1-f1-n2.png",
 				"Type":"Apartment",
 				"Code":540635
@@ -38,7 +38,7 @@
 				"Price":35000000,
 				"Availability":"Reserved",
 				"Square":50.5,
-				"BedroomsCount":1,
+				"BedroomsCount":4,
 				"Plan":"https://raw.githubusercontent.com/Shakhmilav/AIS/refs/heads/main/bitmaps/b1-e1-f1-n3.png",
 				"Type":"Apartment",
 				"Code":540636
