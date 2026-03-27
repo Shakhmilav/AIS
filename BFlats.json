@@ -177,7 +177,7 @@
 			{"Building":1,"Entrance":1,"Floor":3,"Number":4,"NumberFlat":17,"NumberOnFloor":4,"Price":23500000,"Availability":"Sold","Square":41.6,"BedroomsCount":1,"Plan":"https://raw.githubusercontent.com/Shakhmilav/AIS/refs/heads/main/bitmaps/b1-e1-f1-n1.png","Type":"Apartment","Code":540650},
 			{"Building":1,"Entrance":1,"Floor":3,"Number":5,"NumberFlat":18,"NumberOnFloor":5,"Price":34000000,"Availability":"Available","Square":40.3,"BedroomsCount":1,"Plan":"https://raw.githubusercontent.com/Shakhmilav/AIS/refs/heads/main/bitmaps/b1-e1-f1-n1.png","Type":"Apartment","Code":540651},
 			{"Building":1,"Entrance":1,"Floor":3,"Number":6,"NumberFlat":19,"NumberOnFloor":6,"Price":45000000,"Availability":"Reserved","Square":50.6,"BedroomsCount":1,"Plan":"https://raw.githubusercontent.com/Shakhmilav/AIS/refs/heads/main/bitmaps/b1-e1-f1-n1.png","Type":"Apartment","Code":540652},
-			{"Building":1,"Entrance":1,"Floor":3,"Number":7,"NumberFlat":20,"NumberOnFloor":7,"Price":56000000,"Availability":"Available","Square":92.5,"BedroomsCount":3,"Plan":"https://raw.githubusercontent.com/Shakhmilav/AIS/refs/heads/main/bitmaps/b1-e1-f1-n1.png","Type":"Apartment","Code":540653},
+			{"Building":1,"Entrance":1,"Floor":3,"Number":7,"NumberFlat":20,"NumberOnFloor":7,"Price":36000000,"Availability":"Available","Square":90.5,"BedroomsCount":3,"Plan":"https://raw.githubusercontent.com/Shakhmilav/AIS/refs/heads/main/bitmaps/b1-e1-f1-n1.png","Type":"Apartment","Code":540653},
 			{"Building":1,"Entrance":1,"Floor":3,"Number":8,"NumberFlat":21,"NumberOnFloor":8,"Price":40283570,"Availability":"Reserved","Square":86.3,"BedroomsCount":3,"Plan":"https://raw.githubusercontent.com/Shakhmilav/AIS/refs/heads/main/bitmaps/b1-e1-f1-n1.png","Type":"Apartment","Code":540654},
 			
 			
